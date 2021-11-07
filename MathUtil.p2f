@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?p2f version='1.0.0'?>
+<p2f version='1.0.0'>
+  <ius size='1'>
+    <iu id='org.eclipse.jgit.feature.group' name='Java implementation of Git' version='5.13.0.202109080827-r'>
+      <repositories size='3'>
+        <repository location='https://download.eclipse.org/releases/latest'/>
+        <repository location='https://download.eclipse.org/releases/2021-09/'/>
+        <repository location='https://download.eclipse.org/releases/2021-09/202109151000'/>
+      </repositories>
+    </iu>
+  </ius>
+</p2f>
