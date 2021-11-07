@@ -7,7 +7,7 @@ public class MathUtil {
 				return a;
 			}
 				
-		return -1;
+		return 0;
 	}
 	
 }
