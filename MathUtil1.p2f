@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?p2f version='1.0.0'?>
+<p2f version='1.0.0'>
+  <ius size='1'>
+    <iu id='epp.package.java' name='Eclipse IDE for Java Developers' version='4.21.0.20210910-1200'>
+      <repositories size='4'>
+        <repository location='https://download.eclipse.org/technology/epp/packages/2021-09/202109101200'/>
+        <repository location='https://download.eclipse.org/releases/latest'/>
+        <repository location='https://download.eclipse.org/releases/2021-09/'/>
+        <repository location='https://download.eclipse.org/technology/epp/packages/latest/'/>
+      </repositories>
+    </iu>
+  </ius>
+</p2f>
