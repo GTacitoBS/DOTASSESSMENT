@@ -21,13 +21,42 @@ class MainTest {
 	}
 	
 	@Test
-	void mdcAim() {
+	void mdcApar1() {
 		int a = 9;
 		int b = 3;
 		int wait = b;
 		int get = MathUtil.mdc(a, b);
 		assertEquals(wait, get);
 	}
+	
+
+	@Test
+	void mdcAim() {
+		int a = 9;
+		int b = 4;
+		int wait = b;
+		int get = MathUtil.mdc(a, b);
+		assertEquals(wait, get);
+	}
+	
+	@Test
+	void mdcAim1() {
+		int a = 9;
+		int b = 3;
+		int wait = b;
+		int get = MathUtil.mdc(a, b);
+		assertEquals(wait, get);
+	}
+	
+	@Test
+	void mdcAim2() {
+		int a = 9;
+		int b = 6;
+		int wait = b;
+		int get = MathUtil.mdc(a, b);
+		assertEquals(wait, get);
+	}
+	
 	
 }
 	
