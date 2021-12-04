@@ -22,7 +22,7 @@ pipeline {
         stage('Deploy') {
           steps {
             echo 'Deploying...'
-            jar cmfv manifesto.txt StringUtil.jar StringUtil.class
+            
             }
         }
     }
